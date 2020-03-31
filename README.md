@@ -1,14 +1,14 @@
 # Growth Mindset
 
-Growth mindset: it's what separates the doers from the dreamers. It can be the difference between getting stuck in soul-draining monotony and landing your dream job.
+Growth mindset: it's what separates the doers from the dreamers. It can be the difference between getting stuck in soul-draining monotony and landing your **dream** job.
 
-Growth mindset means:
+*Growth mindset* means:
 * always moving forward
 * staying adaptable
 * learning to be comfortable with discomfort
 * learning to welcome failure
 
-A growth mindset means focusing on what you can ~not~ do. ***This is the only thing that matters: what's possible; not what's impossible.
+A growth mindset means focusing on what you can ~not~ do. ***This is the only thing that matters: what's possible; not what's impossible.***
 
 
 
