@@ -1,3 +1,17 @@
+# Growth Mindset
+
+Growth mindset: it's what separates the doers from the dreamers. It can be the difference between getting stuck in soul-draining monotony and landing your dream job.
+
+Growth mindset means:
+* always moving forward
+* staying adaptable
+* learning to be comfortable with discomfort
+* learning to welcome failure
+
+A growth mindset means focusing on what you can ~not~ do. ***This is the only thing that matters: what's possible; not what's impossible.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JRedmon1698/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
