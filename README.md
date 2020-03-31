@@ -13,5 +13,5 @@ Maintaining a *growth mindset* means I will strive to:
 
 A growth mindset means focusing on what I can ~~not~~ do. ***This is the only thing that matters: what's possible; not what's impossible.***
 
-+ test
++ test 
 > test
