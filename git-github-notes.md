@@ -30,5 +30,11 @@ Git is a DVCS that stores projects in a system of snapshots. Each time you commi
 
 > Seems like a good idea, right? 
 
+## GitHub
+
+*Phew.* Ok, that was the hard part. Now that you know what Git is, GitHub is essentially an online platform that uses Git technology to store and track your files and projects. Easy! You can share and collaborate on projects on GitHub while it tracks your progress and previous versions (through snapshots) while eliminating the risk of local server failure (think ***cloud***). So now you can find people to help you build out that website of cats on rollerblades that you've been dreaming about all these years and have a safe place to store and track your progress online! 
+
+
+
 
 
