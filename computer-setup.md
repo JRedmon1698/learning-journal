@@ -24,3 +24,7 @@ As for me, I will probably play around with a few of these until I find one that
 IDE's represent more than just another form of thirrd party text editor. While these include the options of a normal third party text editor, they also include many other features including compiling, file management, and debugging. 
 
 *IDE's are to text editors as Swiss Army Knives are to butter knives.* 
+
+
+
+[Back to Table of Contents](README.md) 

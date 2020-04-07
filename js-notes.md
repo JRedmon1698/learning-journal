@@ -14,3 +14,7 @@ JS is what makes a website *do* things. It provide that actions and mechanisms t
 1. Numbers
 2. Strings
 3. Booleans
+
+
+
+[Back to Table of Contents](README.md) 

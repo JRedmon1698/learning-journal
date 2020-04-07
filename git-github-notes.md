@@ -36,5 +36,8 @@ Git is a DVCS that stores projects in a system of snapshots. Each time you commi
 
 
 
+[Back to Table of Contents](README.md) 
+
+
 
 

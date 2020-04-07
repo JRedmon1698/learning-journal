@@ -26,3 +26,7 @@ There are 147 predefined color names to be used in CSS. But there are wya more c
     > Ex. #XXYYZZ, where XX indicates an R value, YY indicates a G value, and ZZ indicates a B value
 
 RGB (RedGreenBlue) values range between 0-255. These numbers specifiy where on a color spectrum a color lies. 
+
+
+
+[Back to Table of Contents](README.md) 
