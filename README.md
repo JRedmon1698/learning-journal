@@ -5,5 +5,6 @@
 - [Git vs. GitHub](git-github-notes.md)
 - [HTML Notes](html-notes.md)
 - [JS Notes](js-notes.md)
+- [Function Notes](function-notes.md) 
 
 
