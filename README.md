@@ -3,6 +3,7 @@
 - [Markdown](markdown-notes.md)
 - [Computer Setup](computer-setup.md)
 - [Git vs. GitHub](git-github-notes.md)
-- [HTML notes](html-notes.md)
+- [HTML Notes](html-notes.md)
+- [JS Notes](js-notes.md)
 
 
