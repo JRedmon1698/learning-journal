@@ -6,5 +6,6 @@
 - [HTML Notes](html-notes.md)
 - [JS Notes](js-notes.md)
 - [Function Notes](function-notes.md) 
+- [How Computers Work](how-computers-work-notes.md)
 
 
