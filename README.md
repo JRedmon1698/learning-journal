@@ -7,5 +7,7 @@
 - [JS Notes](js-notes.md)
 - [Function Notes](function-notes.md) 
 - [How Computers Work](how-computers-work-notes.md)
+- [For and While Loop Notes](loop-notes.md)
+
 
 
