@@ -34,3 +34,7 @@ Logical operators compare results of more than one comparison operator. Below ar
 - `||`
 > logical or
 > For `(( 2 < 5) || (2 < 1))` If either expresion or both are true, then the expression returns true. Only if both expressions are false will the expression return false.
+
+
+
+[Back to Table of Contents](README.md) 
